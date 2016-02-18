@@ -23958,7 +23958,7 @@ var ContentStyle = {
 };
 
 var LinkStyle = {
-    color: "red",
+    color: "white",
     fontWeight: '900',
     fontSize: '16px',
     textDecoration: 'none'
